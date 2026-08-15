@@ -22,14 +22,14 @@ export const site = {
   city: "Dourados - Mato Grosso do Sul",
   coverage: "Atendimento remoto para todo o Brasil",
   /** Telefone em formato internacional, somente números. */
-  whatsappNumber: "5567999999999",
-  whatsappDisplay: "(67) 99999-9999",
+  whatsappNumber: "5567991273202",
+  whatsappDisplay: "(67) 99127-3202",
   whatsappMessage:
     "Olá Nicolas! Encontrei a Zanchetin Technology pelo site e gostaria de conversar sobre um projeto.",
-  email: "contato@zanchetintechnology.com",
-  linkedin: "https://www.linkedin.com/in/nicolas-zanchetin",
-  github: "https://github.com/nicolaszanchetin",
-  instagram: "https://instagram.com/zanchetintechnology",
+  email: "zanchetin.technology@gmail.com",
+  linkedin: "https://www.linkedin.com/in/nicolas-zanchetin/",
+  github: "https://github.com/zanchettinfz-jpg",
+  instagram: "https://www.instagram.com/nicolaszchtt/",
   /** Ative/desative a seção de planos. */
   showPricing: true,
 } as const;
